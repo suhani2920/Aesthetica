@@ -1,0 +1,17 @@
+body{
+  background-color: #F2CEE2;
+  color:#F280B6;
+}
+.navbar{
+  padding:0 1rem 0 0;
+  margin: 0;
+}
+.navbar-brand{
+font-family: 'Lobster', cursive;
+font-size: 3rem;
+font-weight: bold;
+  color:#F280B6;
+}
+#title{
+  height: 100px;
+}
